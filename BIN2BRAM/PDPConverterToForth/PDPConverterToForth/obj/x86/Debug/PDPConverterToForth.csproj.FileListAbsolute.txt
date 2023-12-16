@@ -1,0 +1,5 @@
+D:\0_FPGA_2018\CPU_FPGA\0000000000_PDP_11\ALEX_PDP\PDPConverterToForth\PDPConverterToForth\bin\Debug\PDPConverterToForth.exe
+D:\0_FPGA_2018\CPU_FPGA\0000000000_PDP_11\ALEX_PDP\PDPConverterToForth\PDPConverterToForth\bin\Debug\PDPConverterToForth.pdb
+D:\0_FPGA_2018\CPU_FPGA\0000000000_PDP_11\ALEX_PDP\PDPConverterToForth\PDPConverterToForth\obj\x86\Debug\PDPConverterToForth.exe
+D:\0_FPGA_2018\CPU_FPGA\0000000000_PDP_11\ALEX_PDP\PDPConverterToForth\PDPConverterToForth\obj\x86\Debug\PDPConverterToForth.pdb
+D:\0_FPGA_2018\CPU_FPGA\0000000000_PDP_11\ALEX_PDP\PDPConverterToForth\PDPConverterToForth\obj\x86\Debug\PDPConverterToForth.csprojResolveAssemblyReference.cache
